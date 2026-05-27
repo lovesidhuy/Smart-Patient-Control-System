@@ -17,8 +17,6 @@ The system tracks patient temperature, heart rate, and movement, then decides if
 ---
 
 
-<img width="1103" height="759" alt="Screenshot 2026-05-26 at 5 17 44 PM" src="https://github.com/user-attachments/assets/8a4de6c2-2447-4880-882a-49a251976e4a" />
-
 
 # ⚙️ What it actually does
 
@@ -102,7 +100,8 @@ When temperature is in caution range, you get:
 - Yellow LED on
 - No buzzer (since it's not critical)
 
-![IoT Smart Patient Monitoring System](https://github.com/user-attachments/assets/4fffee30-c828-4b8c-acb2-9ebd1827b6b3)
+
+<img width="1103" height="759" alt="Screenshot 2026-05-26 at 5 17 44 PM" src="https://github.com/user-attachments/assets/8a4de6c2-2447-4880-882a-49a251976e4a" />
 
 ---
 
